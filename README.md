@@ -2,19 +2,23 @@
 
 <h3>Tech Stack</h3>
 <h4>Strong</h4>
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=blue" />
-<img src="https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=red" />
-<img src="https://img.shields.io/badge/typeorm-20232a.svg?style=for-the-badge&logo=typeorm&logoColor=orange" />
-<img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=skyblue" />
-<img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=skyblue" />
-<img src="https://img.shields.io/badge/provider-20232a.svg?style=for-the-badge&logo=provider&logoColor=skyblue" />
+<div>
+  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=red" />&nbsp
+  <img src="https://img.shields.io/badge/typeorm-20232a.svg?style=for-the-badge&logo=typeorm&logoColor=orange" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql" />&nbsp
+  <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=skyblue" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=skyblue" />&nbsp
+  <img src="https://img.shields.io/badge/provider-20232a.svg?style=for-the-badge&logo=provider&logoColor=skyblue" />&nbsp
+</div>
 <h4>Knowledgeable</h4>
-<img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=orange" />
-<img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=blue" />
-<img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=blue" />
-<img src="https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=orange" />&nbsp
+  <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
+</div>
 
 <h3>Contect<h3>
 <img src="https://img.shields.io/badge/shere1765@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=skyblue" />
